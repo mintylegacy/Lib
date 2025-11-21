@@ -165,6 +165,9 @@
         [Enum.UserInputType.MouseButton1] = "MB1",
         [Enum.UserInputType.MouseButton2] = "MB2",
         [Enum.UserInputType.MouseButton3] = "MB3",
+        [Enum.KeyCode.MouseButton1] = "MB1",
+        [Enum.KeyCode.MouseButton2] = "MB2",
+        [Enum.KeyCode.MouseButton3] = "MB3",
         [Enum.KeyCode.Escape] = "ESC",
         [Enum.KeyCode.Space] = "SPC",
     }
